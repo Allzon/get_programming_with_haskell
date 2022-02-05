@@ -8,3 +8,8 @@
 * Simple Concatenation Functions
 
 ### lesson 2
+* Basic Function Structure
+* "Variables"
+* `where` Clause
+
+### lesson 3
