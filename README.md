@@ -6,3 +6,5 @@
 * Basic IO operation 
 * Compilation using GHC and Interactions with GHCi
 * Simple Concatenation Functions
+
+### lesson 2
